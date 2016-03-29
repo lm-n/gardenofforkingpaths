@@ -19,6 +19,6 @@ I was interested in the idea of a garden, a material/physical space being made o
   
   5) in Unity3D I built modular laberynth of interconnected concentric cricles, and used the graphics rendered in MaxMSP as a texture on the walls by using Syphon for Unity3D. I used a first person camera, and added sounds of nature and of Shanghai Divas Jazz to recreate the sounds described in the story. 
   
-  Here's a link to a video of how the environment looked like: 
+  Here's a link to a video of how the environment looked like: https://youtu.be/0lf0kIn7JAc
   
 Most of the challenges I face were in regards to Syphon and being able to use Syphon for Unity. After trying --with the help of Scott Fitzgerald-- for several weeks to use the Max graphics as a texture in Unity. Then I read in a Unity3D forum that changing the version of OpenGL used in Unity could helped. Changed it and taraaaa! It worked! However, some of the renderings were upside down, because I didn't consider the fact that one side of each wall would render the text correctly while the other would do it upside down. Working on fixing that. Stay tuned! 
